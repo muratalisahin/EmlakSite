@@ -16,9 +16,9 @@ Bu repoda Html,Css ve Bootstrap kullanılarak bir inşaat websitesi tasarlanmı�
 ✲Carousel yapısı
       <br>
 ✲Acordion yapı
-      <br>
+      <br> <br>
   
-    <br> <br>
+   
 ✱ Kullanılan Teknolojiler
   
     
