@@ -5,8 +5,8 @@ Bu repoda Html,Css ve Bootstrap kullanılarak bir inşaat websitesi tasarlanmı�
 <h5>
 ✲ Özellikler
   <br> <br>
-  <ul>
-   <li>
+  
+   
 ✱Responsive Tasarım
      <br>
 ✲Kullanıcı dostu arayüz
@@ -17,8 +17,7 @@ Bu repoda Html,Css ve Bootstrap kullanılarak bir inşaat websitesi tasarlanmı�
       <br>
 ✲Acordion yapı
       <br>
-</li>
-  </ul>
+  
     <br> <br>
 ✱ Kullanılan Teknolojiler
   
