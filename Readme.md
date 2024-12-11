@@ -7,15 +7,15 @@ Bu repoda Html,Css ve Bootstrap kullanılarak bir inşaat websitesi tasarlanmı�
   <br> <br>
   <ul>
    <li>
-Responsive Tasarım
+✱Responsive Tasarım
      <br>
-Kullanıcı dostu arayüz
+✲Kullanıcı dostu arayüz
       <br>
-Dinamik navbar
+✲Dinamik navbar
       <br>
-Carousel yapısı
+✲Carousel yapısı
       <br>
-Acordion yapı
+✲Acordion yapı
       <br>
 </li>
   </ul>
