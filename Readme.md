@@ -5,18 +5,22 @@ Bu repoda Html,Css ve Bootstrap kullanılarak bir inşaat websitesi tasarlanmı�
 <h5>
 ✲ Özellikler
   <br> <br>
+   <li>
 Responsive Tasarım
 Kullanıcı dostu arayüz
 Dinamik navbar
 Carousel yapısı
 Acordion yapı
+</li>
     <br> <br>
 ✱ Kullanılan Teknolojiler
-  <li></li>
+  <li>
+    
 Html
 Css
 Js
 Bootstrap
+
 </li>
 </h5><br> <br>
 Ekran Görüntüsü
