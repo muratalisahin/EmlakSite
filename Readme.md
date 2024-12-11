@@ -5,7 +5,7 @@ Bu repoda Html,Css ve Bootstrap kullanılarak bir inşaat websitesi tasarlanmı�
 <h5>
 ✲ Özellikler
   <br> <br>
-  <ul></ul>
+  <ul>
    <li>
 Responsive Tasarım
 Kullanıcı dostu arayüz
