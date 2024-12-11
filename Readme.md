@@ -1,9 +1,9 @@
 
-# Emlaksite
+#insaatsite
   <br> <br>
-Bu repoda Html,Css ve Bootstrap kullanılarak bir inşaat websitesi tasarlanmıştır.
+✱ Bu repoda Html,Css ve Bootstrap kullanılarak bir inşaat websitesi tasarlanmıştır.
 <h5>
-✲ Özellikler
+✱ Özellikler
   <br> <br>
   
    
@@ -28,11 +28,11 @@ Bu repoda Html,Css ve Bootstrap kullanılarak bir inşaat websitesi tasarlanmı�
  <br>
 ✲Js
  <br>
-✱Bootstrap
+✲Bootstrap
 
 
 <br> <br>
-Ekran Görüntüsü
+✲Ekran Görüntüsü
 
 
 ![alt text](Emlak-gif-3.gif)
