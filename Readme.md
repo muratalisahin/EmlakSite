@@ -29,7 +29,7 @@ Acordion yapı
  <br>
 ✲Js
  <br>
-Bootstrap
+✱Bootstrap
 
 
 <br> <br>
