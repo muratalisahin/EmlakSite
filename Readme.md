@@ -12,11 +12,12 @@ Carousel yapısı
 Acordion yapı
     <br> <br>
 ✱ Kullanılan Teknolojiler
+  <li></li>
 Html
 Css
 Js
 Bootstrap
-
+</li>
 </h5><br> <br>
 Ekran Görüntüsü
 
