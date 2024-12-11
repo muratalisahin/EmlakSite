@@ -1,6 +1,4 @@
 
-#insaatsite
-  <br> <br>
 ✱ Bu repoda Html,Css ve Bootstrap kullanılarak bir inşaat websitesi tasarlanmıştır.
 <h5>
 ✱ Özellikler
