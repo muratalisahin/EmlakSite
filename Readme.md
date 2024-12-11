@@ -18,13 +18,14 @@ Acordion yapı
 ✱ Kullanılan Teknolojiler
   <li>
     
-Html
-Css
-Js
+✲Html
+✲Css
+✲Js
 Bootstrap
 
 </li>
-</h5><br> <br>
+
+<br> <br>
 Ekran Görüntüsü
 
 
