@@ -5,7 +5,7 @@
   <br> <br>
   
    
-✱Responsive Tasarım
+❯Responsive Tasarım
      <br>
 ❯Kullanıcı dostu arayüz
       <br>
