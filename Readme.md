@@ -7,30 +7,30 @@
    
 ✱Responsive Tasarım
      <br>
-✲Kullanıcı dostu arayüz
+❯Kullanıcı dostu arayüz
       <br>
-✲Dinamik navbar
+❯Dinamik navbar
       <br>
-✲Carousel yapısı
+❯Carousel yapısı
       <br>
-✲Acordion yapı
+❯Acordion yapı
       <br> <br>
   
    
 ✱ Kullanılan Teknolojiler
   
     
-✲Html
+❯Html
  <br>
-✲Css
+❯Css
  <br>
-✲Js
+❯Js
  <br>
-✲Bootstrap
+❯Bootstrap
 
 
 <br> <br>
-✲Ekran Görüntüsü
+❯Ekran Görüntüsü
 
 
 ![alt text](Emlak-gif-3.gif)
