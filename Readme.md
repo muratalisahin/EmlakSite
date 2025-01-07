@@ -30,7 +30,7 @@
 
 
 <br> <br>
-❯Ekran Görüntüsü
+❯<u>Ekran Görüntüsü</u>
 
 
 ![alt text](Emlak-gif-3.gif)
